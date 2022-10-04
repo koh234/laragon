@@ -1,1 +1,9 @@
 |CTAG_1663167284_18455859_4204_0
+composer create-project laravel/laravel example-app 9.0
+php arisan version
+|hp artisan version
+pwd
+cd example-app\
+ls
+php artisan version
+php artisan --version

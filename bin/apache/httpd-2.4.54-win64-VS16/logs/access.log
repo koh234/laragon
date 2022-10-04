@@ -1,0 +1,6 @@
+::1 - - [05/Oct/2022:02:13:47 +0800] "GET /example-app HTTP/1.1" 301 237
+::1 - - [05/Oct/2022:02:13:47 +0800] "GET /example-app/ HTTP/1.1" 200 272
+::1 - - [05/Oct/2022:02:13:47 +0800] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [05/Oct/2022:02:13:49 +0800] "GET /example-app/laravel-9/ HTTP/1.1" 200 1320
+::1 - - [05/Oct/2022:02:13:52 +0800] "GET /example-app/laravel-9/public/ HTTP/1.1" 200 17593
+::1 - - [05/Oct/2022:02:14:47 +0800] "-" 408 -
